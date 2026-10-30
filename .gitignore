@@ -1,0 +1,16 @@
+﻿# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Virtual Environment
+.venv/
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
